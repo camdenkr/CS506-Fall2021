@@ -134,5 +134,3 @@ def draw_power_plant(buildings=2):
       ''')
     print("\n")
     return
-
-draw_power_plant(3)
